@@ -7,7 +7,7 @@ body {
 }
 
 h2 {
-    color: #1a73e8;
+    color: #000000;
     margin-top: 0;
 }
 
@@ -58,7 +58,7 @@ button:hover {
 }
 
 button[onclick*="editarAluno"] {
-    background-color: #fbbc04; /* amarelo */
+    background-color: #5c5a54; /* amarelo */
     color: white;
 }
 
